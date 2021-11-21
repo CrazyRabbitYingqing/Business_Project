@@ -1,9 +1,12 @@
 ## Business Project Proposal
 
-Client: 
+### Client: 
 
-Who benefits from exploring this question or building this model/system? Who is this work for specifically?
-Question/Need:
+A manager from Redfin observed that there's discussion online about Zillow performs better estimations than Redfin. The manager wants to find a way to perform better 
+Single Family Housing price estimation than before.
+
+
+### Question/Need:
 
 What is the question behind your analysis? What data science opportunity and potential application do you see? What is the purpose of the EDA you will do and the data science model you will propose?
 Impact
