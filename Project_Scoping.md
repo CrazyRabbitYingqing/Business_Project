@@ -40,11 +40,29 @@ You are a data scientist for a shipping company.
 As a part of a new safety initiative, the executive team would like your help to decrease the number of employee
 accidents in warehouses. How would you approach this problem?
 
+#### What exactly is the problem you’re hoping to solve?
 
-What exactly is the problem you’re hoping to solve?
-What constitutes a successful project?
-What data do you plan to explore?
-What type of analysis do you plan to try?
-What potential findings do you hope to discover?
-How will you validate your proposed approach?
-What does the project timeline look like?
+Find out the most dangerous accident causation in the warehouse.
+
+#### What constitutes a successful project?
+
+ Clear analysis procedures and sucsessful validation.
+
+#### What data do you plan to explore?
+
+The characteristics of the workers who cause the accident, e.g, age, education level, work time length in the warehouse. Also the cause of the accident is an important feature to collect.
+
+#### What type of analysis do you plan to try?
+
+Regression, classification
+#### What potential findings do you hope to discover?
+
+The most popular causation of the accidents or what type of worker is the most prone to cause the accident.
+
+#### How will you validate your proposed approach?
+
+Use extra data sets to validate the model.
+
+#### What does the project timeline look like?
+
+ Should have results produce every week. And then discuss with the ware house worker for model optimization choices.
