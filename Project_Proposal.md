@@ -3,7 +3,7 @@
 ### Client: 
 
 A manager from Redfin observed that there's discussion online about Zillow performs better estimations than Redfin. The manager wants to find a way to perform better 
-Single Family Housing price estimation than before.
+Single Family House price estimation than before.
 
 
 ### Question/Need:
