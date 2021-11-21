@@ -9,7 +9,7 @@ Single Family House price estimation than before.
 ### Question/Need:
 
 How can we predict the house price more accurately? We can use regression models to predict the house price based on multiple important
-features.
+features. (I'm also thinking about comparing the results with Zillow data, if the project scoup is not too big)
 
 For EDA, I want to clean up the data from Redfin and gather more related hazard data as extra features to put into the regression
 model. For data science model, I will adopt linear regression, polynomial regression, random forest, and some other more advanced
