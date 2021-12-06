@@ -25,37 +25,29 @@ https://www.kaggle.com/ericpierce/austinhousingprices?select=austinHousingData.c
 
 The data set contains ~10000 rows and ~47 columns.
 
-Unit of Analysis: Use regression model to predict the relationship between the characteristics of a property that has 
-been sold on Redfin with the final price listed, and then use the relationship to predict a property in the test data set.
+Unit of Analysis (that will shown in MVP): Regional house price map, .
 
-Characteristics/Features: Time on Redfin before sold, Year Built, Property type, Community, earthquake potential...
+Characteristics/Features: Living Area, Price source, property tax rate...
 
 ### Solution Path:
 
-We want to increase the accuracy of the house price prediction on Redfin --> We hypothesis that understand the relationship between
-house price related features with regression methods will help us to better predict the house price--> We will use the 
-optimized house price to in the end increase the user number for Redfin and increase profit.
+We want to predict house price in Austin, Texas --> We hypothesis that knowing the listing house price will help us link to the construction cost of the target property--> We will use the construction cost predicted for budget planning next year to precent construction cost waste or shortage.
 
-Alternate Solution Path: If not with Data science tools, the method would involve more labor intese aspects, for instance, without advanced method, an agent 
-will have to recognize a similar property with browsing the data set or website to produce an estimation which will be not efficient
-and accurate. Therefore, advanced method is more desired in this case.
+Alternate Solution Path: To predict the house price in Austin, Texas, if not using the data science method, we can manually collect construction material quantity, transpotation cost, current construction material price, etc. to calculate the potential construction budget. However, this method can be complicated and with no reliable source to validate the calculation.
 
 ### Criteria for Success:
 
-Check the optimized regression model will predict house price well with the test data set.
-I also want to check if the house price prediction accuracy increases will help with the website profit( I
-havn't thought of a way to figure out data).
+Predict the house price within +/-5% of the real listing price. 
 
 ### Assumptions and Risks:
 
-Assumptions: Increase the accuracy of house price prediction will increase the website usage rate.
-Risks: The help from increasing the accuracy of house price prediction is little to the website usage rate. If so,
-       the efforts are in vain.
+Assumptions: House listing price has a stable link (relationship) to the construction cost.
+Risks: If the House listing price is not representable to the construction cost, e.g., the recent new COVID variant change the relationship between the construction cost and house listing price, then our analysis will be not that valuable.
 ### Tools:
 
-I will use python libraries for data exploratory studies.
-I will use python machine learning libraries for regression analysis. Yes. I want to try out as many as regression
-tools to compare the results.
+I will use Google sheets to perform EDA.
+I will use Tableau to create Data visulization plots.
 
-MVP Goal:
-In the MVP, I will show the first regression model results and validate the model with some test data.
+## MVP
+
+### 
