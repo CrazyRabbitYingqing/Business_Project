@@ -1,4 +1,4 @@
-## Business Project Minimum Viable Product
+## Austin House Price Prediction - Minimum Viable Product
 
 ### Client: 
 
@@ -25,7 +25,7 @@ https://www.kaggle.com/ericpierce/austinhousingprices?select=austinHousingData.c
 
 The data set contains ~10000 rows and ~47 columns.
 
-Unit of Analysis (that will shown in MVP): Regional house price map, .
+Unit of Analysis (that will shown in MVP): Regional house price map and Number of High Schools per Zipcode.
 
 Characteristics/Features: Living Area, Price source, property tax rate...
 
@@ -49,5 +49,12 @@ I will use Google sheets to perform EDA.
 I will use Tableau to create Data visulization plots.
 
 ## MVP
+In this MVP, I applied the cleaned up data to make two plots in Tableau:
+1. Regional house price map;
+2. Number of High Schools per Zipcode.
+Based on the plots, I got an preliminary idea of the house price range and the distribution in Austin. Near downtown area, the house price would go high. I also want to verify if education will become an important influence factor in the house price. I plot the number of high schools as well as the ratings per zipcode. It is interesting that at several zipcode zone, the number of high school is high but the school rating is not as high. I will discover more in the school impact, not only High schools but also primary school and middle school.
 
-### 
+I will study several trends between feature groups with the housing price. In the end, I will perform a regression analysis to also validate whether these individual feature analysis supports the house price prediction.
+
+![](
+
