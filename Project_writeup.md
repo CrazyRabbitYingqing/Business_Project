@@ -56,4 +56,6 @@ Based on the plots, I got the preliminary idea of the house price range and the 
 
 I will study several trends between feature groups with the housing price. In the end, I will perform a regression analysis to also validate whether these individual feature analysis supports the house price prediction.
 
-![](mvp.png)
+## COMMUNICATION
+Please see the Tableau plots for data visulization results.
+![](Tableau_plots.pdf)
