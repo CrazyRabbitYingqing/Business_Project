@@ -37,7 +37,7 @@ Alternate Solution Path: To predict the house price in Austin, Texas, if not usi
 
 ### Criteria for Success:
 
-Predict the house price within +/-5% of the real listing price. 
+Predict the house price within +/-5% of the real listing 
 
 ### Assumptions and Risks:
 
