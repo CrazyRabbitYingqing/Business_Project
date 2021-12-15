@@ -2,7 +2,7 @@
 
 ### Abstract
 
-A construction company (size small, all construction project qualiﬁed) at Austin, Texas starts thier business planning for the next year. They are facing a problem that they are bidding on wrong projects which are not as profitable as the ones selected by other similar construction companies. The house price data in local Austin, Texas were collected and explored to gain insights on solving the construction company's problem. After the data analysis, some features or patterns that relates to popular profitable projects were generated. Based on these results recommendation solution path was provided to the construction company's excutive officers. The data analysis applied Google sheets and Tableau as the primary data analysis and visualization tools, repectively. 
+A construction company (size small, all construction project qualiﬁed) at Austin, Texas starts thier business planning for the next year. They are facing a problem that they were bidding on wrong projects the past year, which are not as profitable as the ones selected by other similar construction companies. The house price data in local Austin, Texas were collected and explored to gain insights on solving the construction company's problem. After the data analysis, some features or patterns that relates to popular profitable projects were generated. Based on these results recommendation solution path was provided to the construction company's excutive officers. The data analysis applied Google sheets and Tableau as the primary data analysis and visualization tools, repectively. 
 
 ### Design
 
