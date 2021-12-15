@@ -1,8 +1,19 @@
-## Austin House Price Prediction - Minimum Viable Product
+## BID ON THE RIGHT ONE! - SOLVE PROBLEMS FOR A CONSTRUCTION COMPANY
 
+### Abstract
+
+### Design
+### Data
+### Algorithms
+Python Pandas is used for preliminary data cleaning.
+Google sheets does the primary data analysis. Function used including:
+pivot tables, charts, Vlookup
+Tableau is the primary tool for data visulization. Function used including:
+Geographicl mapa and relationships, bar-charts, pie chart, polynomial trendline.
+### Tools
 ### Client: 
 
-A construction company (specializing in residential housing) at Austin, Texas starts thier financial planning for the next year.
+A construction company (size small, all construction project qualiﬁed) at Austin, Texas starts thier financial planning for the next year.
 The manager of the financial department want to know the recent listing house price around the Austin area as an important factor for them estimating the construction budget.
 
 
@@ -58,4 +69,4 @@ I will study several trends between feature groups with the housing price. In th
 
 ## COMMUNICATION
 Please see the Tableau plots for data visulization results.
-![](Tableau_plots.pdf)
+![](Tableau_plots.jpg)
